@@ -1,0 +1,3 @@
+write-host "Please note this computer will be shutdown immediatelly."
+start-sleep -seconds 10
+stop-computer
